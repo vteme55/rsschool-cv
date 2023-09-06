@@ -5,22 +5,19 @@
 * Telegram: [@Vteme555](https://t.me/Vteme555) 
 * GitHub: [@vteme55](https://github.com/vteme55)
 ### About me: 
-My target is become fronted developer in 2023. I am strongest at tech. I don't have experience in development. But I am exite to learn everything related to web development.
+Fullstack web developer with deep knowledge in backend and frontend. Also experienced with CRM and chat bots.
+Hour rate: 35$ per hour.
 ### Skills: 
-* HTML
-* CSS
-* JS
+* JS, TS
+* Python
 * Git 
-### Code example: 
- ```
-console.log("Hello world =)");
- ``` 
 ### Expirience:  
-* CodeWars tasks solving
+* CRM
+* Chat bots
 ### Courses: 
 * Bachelor of economics
 * Hexlet   
   * CLI Basics 
 * LearnJS 
 ### English: 
-* A1
+* B1
